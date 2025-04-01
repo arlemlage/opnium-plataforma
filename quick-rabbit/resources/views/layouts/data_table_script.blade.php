@@ -1,0 +1,11 @@
+<!-- DataTables -->
+<script src="{{ asset('assets/bower_components/jquery/dist/jquery.min.js?var=2.2')}}"></script>
+<script src="{{ asset('frequent_changing/js/dataTable/jquery.dataTables.min.js?var=2.2')}}"></script>
+<script src="{{ asset('frequent_changing/js/dataTable/dataTables.bootstrap5.min.js?var=2.2')}}"></script>
+<script src="{{ asset('frequent_changing/js/dataTable/dataTables.buttons.min.js?var=2.2')}}"></script>
+<script src="{{ asset('frequent_changing/js/dataTable/buttons.html5.min.js?var=2.2')}}"></script>
+<script src="{{ asset('frequent_changing/js/dataTable/buttons.print.min.js?var=2.2')}}"></script>
+<script src="{{ asset('frequent_changing/js/dataTable/pdfmake.min.js?var=2.2')}}"></script>
+<script src="{{ asset('frequent_changing/js/dataTable/vfs_fonts.js?var=2.2')}}"></script>
+<script src="{{ asset('frequent_changing/newDesign/js/forTable.js?var=2.2')}}"></script>
+<script src="{{ asset('frequent_changing/js/custom_report.js?var=2.2')}}"></script>

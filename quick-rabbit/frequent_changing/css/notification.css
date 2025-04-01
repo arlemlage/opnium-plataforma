@@ -1,0 +1,3 @@
+.table-box table thead th:first-child, .table-box table thead th:last-child, .table-box table.dataTable thead th:first-child, .table-box table.dataTable thead th:last-child, .table-box table.table thead th:first-child, .table-box table.table thead th:last-child {
+    pointer-events: initial;
+}

@@ -1,0 +1,80 @@
+/* start rating css*/
+.rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: left
+}
+.rating>input {
+    display: none
+}
+.rating>label {
+    position: relative;
+    width: 1em;
+    font-size: 35px;
+    color: #FFD600;
+    cursor: pointer
+}
+.rating>label::before {
+    content: "\2605";
+    position: absolute;
+    opacity: 0
+}
+.rating>label:hover:before,
+.rating>label:hover~label:before {
+    opacity: 1 !important
+}
+.rating>input:checked~label:before {
+    opacity: 1
+}
+.rating:hover>input:checked~label:before {
+    opacity: 0.4
+}
+.bg-blue-btn, .bg-red-btn {
+    color: white;
+    text-decoration: none;
+    padding: 8.5px 21px !important;
+    border-radius: 0.358rem !important;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s;
+}
+a, a:hover, a:active, a:focus {
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+    color: #000000;
+}
+
+.bg-blue-btn:hover, .bg-blue-btn:focus, .bg-red-btn:hover, .bg-red-btn:focus {
+    color: white;
+}
+
+.bg-blue-btn:hover, .bg-blue-btn:focus {
+    box-shadow: 0 8px 25px -8px #36405E !important;
+}
+.fit-content{
+    width: fit-content !important;
+}
+
+    .bg-blue-btn {
+        background-color: #36405E;
+    }
+    .center-btn a {
+        text-align: center !important;
+    }
+    .bg-blue-btn:hover, .bg-blue-btn:focus, .bg-red-btn:hover, .bg-red-btn:focus {
+        color: white;
+    }
+
+    .bg-blue-btn:hover, .bg-blue-btn:focus {
+        box-shadow: 0 8px 25px -8px #36405E !important;
+    }
+
+    .btn-div {
+        text-align: center !important;
+    }
+/*end rating css*/

@@ -1,0 +1,259 @@
+@media only screen and (min-width: 1300px) and (max-width: 5000px) {
+  .main-header .navbar .wrapper_up_wrapper .hh_wrapper {
+    display: grid;
+    grid-template-columns: 62% 38%;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1299.98px) {
+  .main-header .navbar .wrapper_up_wrapper .hh_wrapper {
+    display: grid;
+    grid-template-columns: 57% 43%;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+  .main-header .navbar .wrapper_up_wrapper .hh_wrapper {
+    display: grid;
+    grid-template-columns: 44% 56%;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+  .main-header
+    .navbar
+    .wrapper_up_wrapper
+    .hh_wrapper
+    .menu-list
+    li:first-child {
+    margin-right: 0px !important;
+  }
+  .main-header .navbar .wrapper_up_wrapper .hh_wrapper {
+    display: grid;
+    grid-template-columns: 30% 70%;
+  }
+  .main-header .navbar .wrapper_up_wrapper .hh_wrapper .st {
+    padding: 0px !important;
+  }
+  .main-header .navbar .navbar-custom-menu:last-child .user-profile {
+    flex-direction: row;
+  }
+  .user-role {
+    display: none;
+  }
+  .main-header
+    .navbar
+    .wrapper_up_wrapper
+    .hh_wrapper
+    .menu-list
+    li:first-child {
+    width: 150px !important;
+  }
+  /*#notification_wrap .dropdown-menu[data-bs-popper] {*/
+  /*    left: -280px !important;*/
+  /*}*/
+}
+
+#notification_wrap .dropdown-menu {
+  width: 380px;
+  z-index: 1000;
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767.98px) {
+  .main-header .navbar .wrapper_up_wrapper .hh_wrapper {
+    display: grid;
+    grid-template-columns: 32% 68%;
+  }
+  .main-header .navbar .navbar-custom-menu:last-child .user-profile {
+    display: flex;
+    flex-direction: column;
+  }
+  .user-role {
+    display: none;
+  }
+  .main-header
+    .navbar
+    .wrapper_up_wrapper
+    .hh_wrapper
+    .menu-list
+    li:first-child {
+    width: 100px !important;
+  }
+  /*#notification_wrap .dropdown-menu[data-bs-popper] {*/
+  /*    left: -295px !important;*/
+  /*}*/
+  /*#notification_wrap .dropdown-menu {*/
+  /*    width: 475px !important;*/
+  /*}*/
+}
+
+/*	Mobile Device: 350px.
+    Gutters: 24px.
+    Outer margins: 28px.
+    Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+@media (max-width: 1020px) {
+  .keyboard-short-cut {
+    display: none !important;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 575.98px) {
+  .user-avatar {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .main-header .navbar .navbar-custom-menu:last-child .user-profile {
+    flex-direction: column;
+  }
+  .user-role {
+    display: none !important;
+  }
+  .main-header
+    .navbar
+    .wrapper_up_wrapper
+    .hh_wrapper
+    .menu-list
+    li:first-child {
+    width: 35px !important;
+    margin-right: 0 !important;
+  }
+  .main-header .navbar .wrapper_up_wrapper .hh_wrapper {
+    display: grid;
+    grid-template-columns: 31% 52% !important;
+  }
+  .menu-trigger-box .st {
+    padding: 0px !important;
+  }
+  .mobile-d-ln-none {
+    display: none;
+  }
+  .user-name {
+    display: none;
+  }
+  .navbar-menu-right .btn {
+    padding: 0px 5px !important;
+  }
+  .main-header .navbar {
+    height: 60px;
+  }
+  /*#notification-bell-count {*/
+  /*    top: -10px !important;*/
+  /*    right: 48px !important;*/
+  /*}*/
+  /*#message-bell-count {*/
+  /*    top: -10px !important;*/
+  /*    right: 3px !important;*/
+  /*}*/
+  .main-header
+    .navbar
+    .navbar-custom-menu:last-child
+    .user-profile
+    img.user-avatar {
+    margin-left: 0px !important;
+  }
+  #ticket_index_search_btn {
+    overflow-x: scroll;
+  }
+  .ticket-list-btn {
+    padding: 8.5px 8px !important;
+  }
+  .navbar .dropdown-toggle::after {
+    margin-left: 0em;
+  }
+  .user-info-box .user-avatar {
+    border: 1px solid rgb(120 103 237);
+  }
+  #ticket_index_search_btn {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: scroll !important;
+  }
+  /*#notification_wrap .dropdown-menu[data-bs-popper] {*/
+  /*    left: -205px !important;*/
+  /*}*/
+  /*#notification_wrap .dropdown-menu {*/
+  /*    width: 323px !important;*/
+  /*}*/
+  .top {
+    margin-top: 10px !important;
+  }
+}
+
+.main-header .navbar-menu-left {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+.main-header .navbar-menu-left .keyboard-short-cut {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.new-btn {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 8px 10px;
+  color: #307ef3;
+  background-color: rgba(48, 126, 243, 0.1);
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  transition: all 0.5s ease-in-out;
+}
+.main-header .navbar-menu-left .keyboard-short-cut a {
+  margin: 1px 0px;
+}
+.main-header .navbar-menu-right {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767.98px) {
+  .main-header {
+    padding: 15px 15px 0 15px !important;
+  }
+  .wrapper .main-content-wrapper {
+    padding: 15px 15px 15px 14px;
+  }
+}
+@media only screen and (min-width: 320px) and (max-width: 991.98px) {
+  .ticket_details_right_side .bg-blue-btn {
+    width: 100%;
+  }
+}
+
+@media (max-width: 520px) {
+  .dropdown-menu-end[data-bs-popper] {
+    right: -94px;
+    left: auto;
+    width: 289px !important;
+    top: 45px;
+  }
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 576.98px) {
+  #task-calendar .fc-header-toolbar {
+    display: flex;
+    flex-direction: column;
+  }
+  #task-calendar .fc-toolbar-title {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+.break-word {
+  word-break: break-word;
+}

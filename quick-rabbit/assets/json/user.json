@@ -1,0 +1,6 @@
+{
+    "user_id": 1,
+    "type": "Admin",
+    "chat_sound": 1,
+    "browser_notification": true
+}

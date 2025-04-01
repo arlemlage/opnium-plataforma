@@ -1,0 +1,11 @@
+{
+    "mail_driver": "smtp",
+    "mail_host": "smtp-relay.sendinblue.com",
+    "mail_port": "587",
+    "mail_encryption": "tls",
+    "mail_username": "XXXXXXXXXX",
+    "mail_password": "XXXXXXXXXX",
+    "mail_from": "XXXXXXXXXX",
+    "from_name": "Quick Rabbit",
+    "api_key": "XXXXXXXXXX"
+}

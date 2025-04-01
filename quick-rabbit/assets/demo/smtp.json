@@ -1,0 +1,11 @@
+{
+    "mail_driver": "smtp",
+    "mail_host": "XXXXXXXXX",
+    "mail_port": "555",
+    "mail_encryption": "XXXXXXXXXXX",
+    "mail_username": "user@mail.com",
+    "mail_password": "XXXXXXXXX",
+    "mail_from": "demo@mail.com",
+    "from_name": "Quick Rabbit",
+    "api_key": "XXXXXXXXXXX"
+}

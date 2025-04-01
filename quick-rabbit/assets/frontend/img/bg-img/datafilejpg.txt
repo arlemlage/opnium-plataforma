@@ -1,0 +1,10 @@
+c:/users/user/downloads/img/bg-img\1.jpg
+c:/users/user/downloads/img/bg-img\3.jpg
+c:/users/user/downloads/img/bg-img\4.jpg
+c:/users/user/downloads/img/bg-img\about_us.jpg
+c:/users/user/downloads/img/bg-img\background.jpg
+c:/users/user/downloads/img/bg-img\s1.jpg
+c:/users/user/downloads/img/bg-img\s2.jpg
+c:/users/user/downloads/img/bg-img\s3.jpg
+c:/users/user/downloads/img/bg-img\s4.jpg
+c:/users/user/downloads/img/bg-img\s5.jpg

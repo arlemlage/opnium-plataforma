@@ -1,0 +1,61 @@
+#canvas {
+    background: black;
+}
+.reset-btn {
+    margin-left: 5px;
+    height: 41px;
+    width: 50px;
+    padding: 8px 13px;
+    border-radius: 3px;
+}
+.active-article {
+    color: #36405e !important;
+    background-color: white;
+}
+.color-white {
+    color: white !important;
+}
+
+.float-right {
+    float: right !important;
+}
+
+.float-left {
+    float: left !important;
+}
+
+.buy-now {
+    position: fixed;
+    left: 35px;
+    bottom: 58px;
+    background: #df2434;
+    color: white;
+    box-shadow: 0px 1px 23px 3px #ce1323!important;
+    z-index: 999;
+}
+
+.buy-now:hover {
+    background: #e71829;
+    color: white;
+    box-shadow: 0px 1px 18px 3px #ce1323!important;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767.98px) {
+    .chat-left-wrap {
+        width: 100%;
+        height: 50vh !important;
+        border: 1px solid #e4e8ed;
+        border-top: none;
+        border-bottom: none;
+        overflow: hidden;
+    }
+    .chat-left-body ul {
+        padding: 0px;
+        margin: 0px;
+        overflow-y: scroll;
+        height: 30vh;
+    }
+    .sidebar-mini.sidebar-collapse .main-sidebar .sidebar-menu li a span, .sidebar-mini.sidebar-collapse .main-sidebar2 .sidebar-menu li a span {
+        opacity: 1!important;
+     }
+  }

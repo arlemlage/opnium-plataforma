@@ -1,0 +1,20 @@
+{
+    "id": 1,
+    "organization_id": 1,
+    "ssl_mode": 2,
+    "ssl_store_id": null,
+    "ssl_store_password": null,
+    "ssl_active_mode": "sandbox",
+    "paypal_mode": "1",
+    "paypal_client_id": "XXXXXXXXXX",
+    "paypal_client_secret": "XXXXXXXXXX",
+    "paypal_app_id": null,
+    "paypal_active_mode": "sandbox",
+    "stripe_mode": "1",
+    "stripe_api_key": "XXXXXXXXXX",
+    "stripe_secret": "XXXXXXXXXX",
+    "stripe_active_mode": "sandbox",
+    "del_status": "LIVE",
+    "created_at": "2023-05-11T11:01:34.000000Z",
+    "updated_at": "2024-03-01T06:27:08.000000Z"
+}

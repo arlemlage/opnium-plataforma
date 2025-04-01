@@ -1,0 +1,55 @@
+.hero-area{
+  position: relative;
+  .left-animated-img,
+  .right-animated-img{
+    position: absolute;
+    img{
+      width: 160px;
+      height: auto;
+    }
+  }
+  .left-animated-img{
+    left: 30px;
+    bottom: 100px;
+  }
+  .right-animated-img{
+    top: 140px;
+    right: 30px;
+  }
+
+  .help-images{
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 70px;
+    img{
+      width: 80px;
+      height: auto;
+    }
+  }
+
+}
+
+.article-search-parent-wrapper{
+  // background-color: #ffffff;
+  // border-radius: 10px;
+  margin-top: 40px;
+}
+.search-bar-wrapper, .article-search-bar-wrapper{
+  position: relative;
+  box-shadow: 0 2px 30px rgba(0, 0, 0, 0.2);
+}
+
+.article-search-bar-wrapper{
+  margin: 50px 30px;
+}
+
+.search-bar-wrapper{
+  background-color: #f1f0f0;
+  margin-top: 50px;
+}

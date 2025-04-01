@@ -1,0 +1,3 @@
+.table-box table td .btn-group .dropdown-menu, .table-box table.dataTable td .btn-group .dropdown-menu, .table-box table.table td .btn-group .dropdown-menu {
+    transform: translate(-219px, 32px) !important;
+}

@@ -1,0 +1,7 @@
+{
+    "paypal_active": "Active",
+    "paypal_active_mode": "sandbox",
+    "paypal_client_id": "XXXXXXXXXX",
+    "paypal_client_secret": "XXXXXXXXXX",
+    "paypal_app_id": "paypal_app_id"
+}

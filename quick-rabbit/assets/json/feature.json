@@ -1,0 +1,38 @@
+[
+    {
+        "title": "AI Powered",
+        "description": "AI transforms industries, revolutionizing processes & enhancing human capabilities unimaginably.",
+        "icon": "feature_01713867570.svg",
+        "id": 1
+    },
+    {
+        "title": "Knowledgebase",
+        "description": "You will find a collection of well-organized articles on a how-to-use basis.",
+        "icon": "feature_11713867570.svg",
+        "id": 2
+    },
+    {
+        "title": "Support Ticketing",
+        "description": "Can't find the solution in knowledgebase, you can create ticket to get team assistance.",
+        "icon": "feature_21713867570.svg",
+        "id": 3
+    },
+    {
+        "title": "Live Chat",
+        "description": "Live chat will give you quick communication for pre-sale questions and the moment of support.",
+        "icon": "feature_31713867570.svg",
+        "id": 4
+    },
+    {
+        "title": "CRM",
+        "description": "CRM helps both you and us to connect with each other efficiently.",
+        "icon": "feature_41713867570.svg",
+        "id": 5
+    },
+    {
+        "title": "Forum",
+        "description": "Forum is a platform where ideas are shared, discussions are had, and knowledge is exchanged.",
+        "icon": "feature_51713867570.svg",
+        "id": 6
+    }
+]

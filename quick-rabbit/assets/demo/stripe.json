@@ -1,0 +1,6 @@
+{
+    "stripe_active": "Active",
+    "stripe_key": "XXXXXXXXXX",
+    "stripe_secret": "XXXXXXXXXX",
+    "stripe_active_mode": "sandbox"
+}

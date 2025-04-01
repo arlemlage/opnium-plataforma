@@ -1,0 +1,21 @@
+{
+    "redirect_base_url": "http://localhost/quick_rabbit",
+    "facebook_login": "Inactive",
+    "facebook_client_id": "facebook_client_id",
+    "facebook_client_secret": "facebook_client_secret",
+    "google_login": "Active",
+    "google_client_id": "XXXXXXXXXX",
+    "google_client_secret": "XXXXXXXXXX",
+    "github_login": "Active",
+    "github_client_id": "XXXXXXXXXX",
+    "github_client_secret": "XXXXXXXXXX",
+    "linkedin_login": "Active",
+    "linkedin_client_id": "XXXXXXXXXX",
+    "linkedin_client_secret": "XXXXXXXXXX",
+    "envato_login": "Active",
+    "envato_client_id": "XXXXXXXXXX",
+    "envato_client_secret": "XXXXXXXXXX",
+    "twitter_login": "Inactive",
+    "twitter_client_id": "twitter_client_id",
+    "twitter_client_secret": "twitter_client_secret"
+}

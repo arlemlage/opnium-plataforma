@@ -1,0 +1,12 @@
+{
+    "api_key": "XXXXXXXXXX",
+    "auth_domain": "XXXXXXXXXX",
+    "project_id": "XXXXXXXXXX",
+    "database_url": "XXXXXXXXXX",
+    "storage_bucket": "XXXXXXXXXX",
+    "messaging_sender_id": "XXXXXXXXXX",
+    "app_id": "XXXXXXXXXX",
+    "measurement_id": "XXXXXXXXXX",
+    "server_key": "XXXXXXXXXX",
+    "key_pair": "XXXXXXXXXX"
+}

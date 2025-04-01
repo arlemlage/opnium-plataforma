@@ -1,0 +1,7 @@
+{
+    "enable_gdpr": "on",
+    "view_cookie_notification_bar": "on",
+    "cookie_message_title": "We care about your privacy",
+    "cookie_message": "These cookies enable additional features and functionality on the website, such as remembering your preferences or login information.",
+    "policy_message_on_reg_form": "on"
+}
